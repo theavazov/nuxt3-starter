@@ -8,10 +8,7 @@ useHead({
 
 <template>
   <div>
-    <Header />
-    <div>
-      <h1>Hello Nuxt 3 | About</h1>
-      <p>locale: {{ locale }}</p>
-    </div>
+    <h1>Hello Nuxt 3 | About</h1>
+    <p>locale: {{ locale }}</p>
   </div>
 </template>
